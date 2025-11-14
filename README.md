@@ -10,8 +10,7 @@
 </a> -->
 
 
-<!-- <p align="center">
- 
+<!-- <p align="center"
  <img src="https://img.shields.io/github/followers/madhavasrinivasan?style=flat-square"/>
  <img src="https://badges.pufler.dev/visits/madhavasrinivasan/madhavasrinivasan"/> 
  <img src="https://badges.pufler.dev/years/madhavasrinivasan"/>
@@ -67,20 +66,11 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <br>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=madhavasrinivasan&theme=redical">
-</p> 
-<hr>
-<br />
-<p align="left">
-    <a href="https://github.com/madhavasrinivasan">
-        <img width="49.5%"
-            src="https://github-readme-stats.vercel.app/api?username=madhavasrinivasan&show_icons=true&theme=nightowl&hide_border=true" />
-        <img width="49.5%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=madhavasrinivasan&theme=nightowl&hide_border=true" />
-    </a>
-</p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<!-- platane/snk works, it just puts it on a new branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavasrinivasan/madhavasrinivasan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavasrinivasan/madhavasrinivasan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/madhavasrinivasan/madhavasrinivasan/output/github-contribution-grid-snake.svg">
+</picture>
