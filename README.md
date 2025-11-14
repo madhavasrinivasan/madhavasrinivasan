@@ -33,11 +33,12 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
@@ -59,7 +60,9 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/express%20js-fcfcfc?style=for-the-badge&logo=express&logoColor=fcfcfc&labelColor=22272D">
-  <img src="https://img.shields.io/badge/codeigniter-EE4223?style=for-the-badge&logo=codeigniter&logoColor=EE4223&labelColor=22272D">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&labelColor=22272D">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=22272D">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=22272D">
   <img src="https://img.shields.io/badge/linux-22272D?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=macos&labelColor=22272D">
 </div>
@@ -67,10 +70,8 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 
 <br>
 
-### Watch my contribution graph get eaten by the snake 🐍
+<h2 align="center">GitHub Stats</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavasrinivasan/madhavasrinivasan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavasrinivasan/madhavasrinivasan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/madhavasrinivasan/madhavasrinivasan/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavasrinivasan&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+</p>
