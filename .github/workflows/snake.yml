@@ -28,6 +28,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # Show 2025 contributions (last 12 months from current date)
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
